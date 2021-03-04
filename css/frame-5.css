@@ -1,0 +1,117 @@
+/* screen - frame-5 */
+
+.border-1px-black-3 {
+  border: 1px solid var(--black-3);
+}
+.border-1px-sushi {
+  border: 1px solid var(--sushi);
+}
+.border-class-1 {
+  border: 1px solid rgba(221,229,233,1.0);
+}
+.exo-bold-white-24px {
+  color: var(--white);
+  font-family: 'Exo', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.exo-medium-desert-storm-54px {
+  color: var(--desert-storm);
+  font-family: 'Exo', Helvetica, Arial, serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 500;
+}
+.exo-normal-onyx-20px {
+  color: var(--onyx);
+  font-family: 'Exo', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.frame-5 {
+  background-color: var(--desert-storm);
+  height: 24px;
+  overflow-x: hidden;
+  position: relative;
+  width: 121px;
+}
+.frame-5 .label-C61RwL {
+  background-color: transparent;
+  color: var(--congress-blue);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.opensans-light-onyx-24px {
+  color: var(--onyx);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+}
+.opensans-normal-onyx-13px {
+  color: var(--onyx);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-onyx-24px {
+  color: var(--onyx);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-white-24px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.robotocondensed-light-onyx-21px {
+  color: var(--onyx);
+  font-family: 'Roboto Condensed', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 300;
+}
+.robotocondensed-normal-black-18px {
+  color: var(--black-2);
+  font-family: 'Roboto Condensed', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-2: rgba(0,0,0,0.44);
+  --black-3: rgba(0,0,0,0.31);
+  --congress-blue: rgba(0,72,124,1.0);
+  --congress-blue-2: rgba(0,72,124,0.3);
+  --desert-storm: rgba(248,248,248,1.0);
+  --mist-gray: rgba(196,196,196,0.5);
+  --onyx: rgba(58,58,60,1.0);
+  --sushi: rgba(131,179,59,1.0);
+  --white: rgba(255,255,255,1.0);
+}

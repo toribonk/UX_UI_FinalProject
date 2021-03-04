@@ -1,0 +1,601 @@
+/* screen - get-in-touch-get-started */
+
+.border-1px-black-3 {
+  border: 1px solid var(--black-3);
+}
+.border-1px-sushi {
+  border: 1px solid var(--sushi);
+}
+.border-class-1 {
+  border: 1px solid rgba(221,229,233,1.0);
+}
+.exo-bold-white-24px {
+  color: var(--white);
+  font-family: 'Exo', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.exo-medium-desert-storm-54px {
+  color: var(--desert-storm);
+  font-family: 'Exo', Helvetica, Arial, serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 500;
+}
+.exo-normal-onyx-20px {
+  color: var(--onyx);
+  font-family: 'Exo', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.get-in-touch-get-started {
+  background-color: var(--desert-storm);
+  height: 935px;
+  overflow-x: hidden;
+  position: relative;
+  width: 658px;
+}
+.get-in-touch-get-started .button-medium-p-ary-double-icon-AX7pWk {
+  background-color: transparent;
+  height: 52px;
+  left: 251px;
+  position: absolute;
+  top: 0px;
+  width: 283px;
+}
+.get-in-touch-get-started .button-medium-p-mary-icon-after-C61RwL {
+  background-color: transparent;
+  height: 52px;
+  left: 232px;
+  position: absolute;
+  top: 761px;
+  width: 201px;
+}
+.get-in-touch-get-started .default-65d2Wy {
+  background-color: var(--sushi);
+  border-radius: 6px;
+  height: 52px;
+  left: -3px;
+  position: relative;
+  top: 0px;
+  width: 204px;
+}
+.get-in-touch-get-started .double-icon-2pP4MT {
+  background-color: transparent;
+  border-radius: 6px;
+  height: 54px;
+  left: -2px;
+  position: relative;
+  top: -1px;
+  width: 286px;
+}
+.get-in-touch-get-started .ellipse-16-X5dHh0 {
+  background-color: transparent;
+  height: 14px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+.get-in-touch-get-started .empty-text-WQXeF1 {
+  background-color: transparent;
+  color: var(--sushi);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 30px;
+  letter-spacing: 0.05px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 115px;
+  white-space: nowrap;
+  width: auto;
+}
+.get-in-touch-get-started .empty-text-wz60dm {
+  background-color: transparent;
+  color: var(--sushi);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 30px;
+  letter-spacing: 0.05px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 119px;
+  white-space: nowrap;
+  width: auto;
+}
+.get-in-touch-get-started .essentials-arrow-gA3xGI {
+  background-color: transparent;
+  height: 16px;
+  left: 236px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 16px;
+}
+.get-in-touch-get-started .essentials-arrow-right-UKnRTo {
+  background-color: transparent;
+  background-image: url(../img/vector-23@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 156px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 16px;
+}
+.get-in-touch-get-started .essentials-times-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 618px;
+  overflow: hidden;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+.get-in-touch-get-started .frame-2-gA3xGI {
+  background-color: transparent;
+  height: 24px;
+  left: 32px;
+  position: absolute;
+  top: 14px;
+  width: 120px;
+}
+.get-in-touch-get-started .frame-6-18E41n {
+  background-color: transparent;
+  height: 21px;
+  left: 32px;
+  position: relative;
+  top: 20px;
+  width: 104px;
+}
+.get-in-touch-get-started .frame-6-ObeGfe {
+  background-color: transparent;
+  height: 21px;
+  left: 32px;
+  position: relative;
+  top: 20px;
+  width: 41px;
+}
+.get-in-touch-get-started .frame-7-RrP0qg {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 61px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 540px;
+}
+.get-in-touch-get-started .frame-7-T6dAK9 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 61px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 540px;
+}
+.get-in-touch-get-started .get-in-touch-get-started-C61RwL {
+  background-color: transparent;
+  color: var(--congress-blue);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  width: 437px;
+}
+.get-in-touch-get-started .group-13-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 62px;
+  position: absolute;
+  top: 148px;
+  width: 545px;
+}
+.get-in-touch-get-started .group-14-C61RwL {
+  background-color: transparent;
+  height: 52px;
+  left: 65px;
+  position: absolute;
+  top: 330px;
+  width: 536px;
+}
+.get-in-touch-get-started .group-15-C61RwL {
+  background-color: transparent;
+  height: 134px;
+  left: 62px;
+  position: absolute;
+  top: 575px;
+  width: 545px;
+}
+.get-in-touch-get-started .group-16-C61RwL {
+  background-color: transparent;
+  height: 89px;
+  left: 138px;
+  position: absolute;
+  top: 434px;
+  width: 393px;
+}
+.get-in-touch-get-started .hi-my-name-is-WQXeF1 {
+  background-color: transparent;
+  height: auto;
+  left: 173px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 183px;
+}
+.get-in-touch-get-started .hort-logo-C61RwL {
+  background-color: transparent;
+  height: 37px;
+  left: 194px;
+  object-fit: cover;
+  position: absolute;
+  top: 865px;
+  width: 277px;
+}
+.get-in-touch-get-started .i-am-looking-to-do-a-AX7pWk {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 226px;
+}
+.get-in-touch-get-started .input-style-text-WQXeF1 {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  width: 541px;
+}
+.get-in-touch-get-started .input-style-text-wz60dm {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 48px;
+  width: 541px;
+}
+.get-in-touch-get-started .label-i2751072814489-SpioFR {
+  background-color: transparent;
+  color: var(--sushi);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.get-in-touch-get-started .label-i2751087814519-LhvEql {
+  background-color: transparent;
+  color: rgba(199,201,217,1.0);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.07px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.get-in-touch-get-started .label-i2751092814519-aOxCOB {
+  background-color: transparent;
+  color: rgba(199,201,217,1.0);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.07px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.get-in-touch-get-started .label-i2751111814207-UKnRTo {
+  background-color: transparent;
+  height: 24px;
+  left: 32px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.get-in-touch-get-started .labeled-VWPIkS {
+  background-color: transparent;
+  height: 24px;
+  left: 258px;
+  position: absolute;
+  top: 65px;
+  width: 24px;
+}
+.get-in-touch-get-started .labeled-vUOK69 {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  position: absolute;
+  top: 67px;
+  width: 33px;
+}
+.get-in-touch-get-started .line-21-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 325px;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+.get-in-touch-get-started .line-34-vUOK69 {
+  background-color: transparent;
+  height: 1px;
+  left: 45px;
+  position: absolute;
+  top: 76px;
+  width: 276px;
+}
+.get-in-touch-get-started .my-budget-range-is-vUOK69 {
+  background-color: transparent;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 226px;
+}
+.get-in-touch-get-started .please-contact-me-at-wz60dm {
+  background-color: transparent;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 243px;
+}
+.get-in-touch-get-started .radio-active-selected-dwZZCB {
+  background-color: transparent;
+  background-image: url(../img/ellipse-15@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 24px;
+}
+.get-in-touch-get-started .radio-labeled-selected-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 416px;
+  position: absolute;
+  top: 621px;
+  width: 137px;
+}
+.get-in-touch-get-started .span0-wdLqfX {
+  color: rgba(0,72,124,1.0);
+  font-style: normal;
+}
+.get-in-touch-get-started .span1-wdLqfX {
+  color: rgba(0,72,124,1.0);
+  font-style: normal;
+  font-weight: 700;
+}
+.get-in-touch-get-started .status-info-WQXeF1 {
+  background-color: transparent;
+  height: 15px;
+  left: 7px;
+  overflow: hidden;
+  position: absolute;
+  top: 115px;
+  width: 15px;
+}
+.get-in-touch-get-started .status-info-wz60dm {
+  background-color: transparent;
+  height: 15px;
+  left: 7px;
+  overflow: hidden;
+  position: absolute;
+  top: 119px;
+  width: 15px;
+}
+.get-in-touch-get-started .vector-EHa4LM {
+  background-color: transparent;
+  height: 5px;
+  left: 3px;
+  position: absolute;
+  top: 6px;
+  width: 10px;
+}
+.get-in-touch-get-started .vector-HjkSFJ {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+.get-in-touch-get-started .vector-LbwAtm {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+.get-in-touch-get-started .vector-Q4REt7 {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 15px;
+}
+.get-in-touch-get-started .vector-RaFxIV {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 15px;
+}
+.get-in-touch-get-started .vector-VRSxvs {
+  background-color: transparent;
+  height: 14px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+.get-in-touch-get-started .vector-VWaC79 {
+  background-color: transparent;
+  height: 2px;
+  left: 6px;
+  position: absolute;
+  top: 3px;
+  width: 3px;
+}
+.get-in-touch-get-started .vector-mtTRSe {
+  background-color: transparent;
+  height: 2px;
+  left: 6px;
+  position: absolute;
+  top: 3px;
+  width: 3px;
+}
+.get-in-touch-get-started .x100k-vUOK69 {
+  background-color: transparent;
+  color: rgba(143,144,166,1.0);
+  font-family: 'Mulish', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.07px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  white-space: nowrap;
+  width: auto;
+}
+.get-in-touch-get-started .x10k-aoXsZr {
+  background-color: transparent;
+  color: rgba(143,144,166,1.0);
+  font-family: 'Mulish', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.07px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.opensans-light-onyx-24px {
+  color: var(--onyx);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+}
+.opensans-normal-onyx-13px {
+  color: var(--onyx);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-onyx-24px {
+  color: var(--onyx);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-white-24px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.robotocondensed-light-onyx-21px {
+  color: var(--onyx);
+  font-family: 'Roboto Condensed', Helvetica, Arial, serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 300;
+}
+.robotocondensed-normal-black-18px {
+  color: var(--black-2);
+  font-family: 'Roboto Condensed', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-2: rgba(0,0,0,0.44);
+  --black-3: rgba(0,0,0,0.31);
+  --congress-blue: rgba(0,72,124,1.0);
+  --congress-blue-2: rgba(0,72,124,0.3);
+  --desert-storm: rgba(248,248,248,1.0);
+  --mist-gray: rgba(196,196,196,0.5);
+  --onyx: rgba(58,58,60,1.0);
+  --sushi: rgba(131,179,59,1.0);
+  --white: rgba(255,255,255,1.0);
+}

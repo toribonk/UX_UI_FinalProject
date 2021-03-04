@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/dropdown.css" />
+    <link rel="stylesheet" type="text/css" href="css/get-in-touch-get-started.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Exo:700,400,800,600,500|Open+Sans:600,700,400,300|Roboto+Condensed:400,300|Mulish:600");
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(248, 248, 248, 1)">
+    <input type="hidden" id="anPageName" name="page" value="get-in-touch-get-started" />
+    <div class="container-center-horizontal">
+      <div
+        class="get-in-touch-get-started border-1px-sushi screen"
+        onclick="window.open('javascript:HideOverlay(%27get-in-touch-get-started%27%2C%20%27animate-disappear%27);', '_self');"
+      >
+        <div class="get-in-touch-get-started-C61RwL">
+          <span class="span0-wdLqfX">Get in touch</span
+          ><span class="span1-wdLqfX">&nbsp;&nbsp;&nbsp;&nbsp;Get started!</span>
+        </div>
+        <div class="group-14-C61RwL">
+          <div class="i-am-looking-to-do-a-AX7pWk opensans-normal-onyx-24px">I am looking to do a</div>
+          <a href="javascript:ShowOverlay('dropdown', 'animate-appear');" onclick="window.event.stopPropagation()">
+            <div class="button-medium-p-ary-double-icon-AX7pWk">
+              <div class="double-icon-2pP4MT border-1px-sushi">
+                <div class="frame-2-gA3xGI">
+                  <div class="label-i2751072814489-SpioFR valign-text-middle">Select a Service</div>
+                </div>
+                <div class="essentials-arrow-gA3xGI"><img class="vector-EHa4LM" src="img/vector-16@2x.svg" /></div>
+              </div></div
+          ></a>
+        </div>
+        <div class="group-13-C61RwL">
+          <div class="hi-my-name-is-WQXeF1 opensans-normal-onyx-24px">Hi, my name is</div>
+          <div class="status-info-WQXeF1">
+            <img class="vector-mtTRSe" src="img/vector-17@2x.svg" />
+            <img class="vector-LbwAtm" src="img/vector-18@2x.svg" />
+            <img class="vector-RaFxIV" src="img/vector-19@2x.svg" />
+          </div>
+          <div class="empty-text-WQXeF1 valign-text-middle">Empty text</div>
+          <div class="input-style-text-WQXeF1">
+            <div class="frame-7-T6dAK9 border-class-1">
+              <div class="frame-6-ObeGfe"><div class="label-i2751087814519-LhvEql valign-text-middle">Name</div></div>
+            </div>
+          </div>
+        </div>
+        <div class="group-15-C61RwL">
+          <div class="please-contact-me-at-wz60dm opensans-normal-onyx-24px">Please contact me at</div>
+          <div class="status-info-wz60dm">
+            <img class="vector-VWaC79" src="img/vector-20@2x.svg" />
+            <img class="vector-HjkSFJ" src="img/vector-18@2x.svg" />
+            <img class="vector-Q4REt7" src="img/vector-22@2x.svg" />
+          </div>
+          <div class="empty-text-wz60dm valign-text-middle">Empty text</div>
+          <div class="input-style-text-wz60dm">
+            <div class="frame-7-RrP0qg border-class-1">
+              <div class="frame-6-18E41n">
+                <div class="label-i2751092814519-aOxCOB valign-text-middle">Email or phone</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="button-medium-p-mary-icon-after-C61RwL">
+          <div class="default-65d2Wy">
+            <div class="label-i2751111814207-UKnRTo valign-text-middle opensans-semi-bold-white-16px">
+              Submit Inquiry
+            </div>
+            <div class="essentials-arrow-right-UKnRTo"></div>
+          </div>
+        </div>
+        <a
+          href="javascript:HideOverlay('get-in-touch-get-started', 'animate-disappear');"
+          onclick="window.event.stopPropagation()"
+        >
+          <div class="essentials-times-C61RwL"><img class="vector-VRSxvs" src="img/vector-24@2x.svg" /></div
+        ></a>
+        <img class="hort-logo-C61RwL" src="img/hort-logo-1@2x.svg" />
+        <img class="line-21-C61RwL" src="img/line-30@2x.svg" />
+        <div class="radio-labeled-selected-C61RwL"></div>
+        <div class="group-16-C61RwL">
+          <div class="my-budget-range-is-vUOK69 opensans-normal-onyx-24px">My Budget Range is</div>
+          <div class="x100k-vUOK69">$100k +</div>
+          <div class="labeled-vUOK69"><div class="x10k-aoXsZr">$10k</div></div>
+          <img class="line-34-vUOK69" src="img/line-34@2x.svg" />
+          <div class="labeled-VWPIkS">
+            <div class="radio-active-selected-dwZZCB">
+              <img class="ellipse-16-X5dHh0" src="img/ellipse-16@2x.svg" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="overlay-dropdown" class="overlay" style="min-height: 935px">
+      <div class="container-center-horizontal">
+        <div class="dropdown border-1px-sushi screen">
+          <div class="frame-2-C61RwL"><div class="label-gUEd1c valign-text-middle">Residential Landscape</div></div>
+          <div class="frame-3-C61RwL"><div class="label-FY3HhL valign-text-middle">Commerical Landscape</div></div>
+          <div class="frame-4-C61RwL"><div class="label-61Z7WH valign-text-middle">Green Roof</div></div>
+          <div class="frame-5-C61RwL"><div class="label-pqQuwH valign-text-middle">Custom Design</div></div>
+          <a href="javascript:HideOverlay('dropdown', 'animate-disappear');">
+            <div class="essentials-arrow-C61RwL"><img class="vector-zVZ2No" src="img/vector-61@2x.svg" /></div
+          ></a>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-dropdown";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var clickedDiv = e.toElement || e.target;
+          if (overlayElement.contains(clickedDiv)) {
+            HideOverlay("dropdown", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+    </script>
+  </body>
+</html>
